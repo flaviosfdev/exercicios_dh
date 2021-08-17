@@ -1,4 +1,12 @@
 package ex_classe_abstrata
 
-class Ingresso {
+abstract class Ingresso {
+
+    var valor: Double = 10.0
+
+    abstract fun imprimeValor(): String
+
 }
+
+
+
