@@ -1,4 +1,4 @@
-package aula12.ex_equals_tostring_hashcode_coca
+package aula12_equals_hashcode_tostring.ex_coca
 
 data class Coca (var tamanho: Int, var preco: Double) {
 
