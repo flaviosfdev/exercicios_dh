@@ -1,4 +1,4 @@
-package aula12.ex_equals_tostring_hashcode_pessoa
+package aula12_equals_hashcode_tostring.ex_pessoa
 
 class Pessoa(var nome: String, var rg: Int) {
 
