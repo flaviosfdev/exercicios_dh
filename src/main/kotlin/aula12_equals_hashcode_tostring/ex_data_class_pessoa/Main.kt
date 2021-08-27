@@ -1,4 +1,4 @@
-package aula12.ex_data_class_pessoa
+package aula12_equals_hashcode_tostring.ex_data_class_pessoa
 
 fun main() {
     val pessoa1 = Pessoa("Flávio", 123)
