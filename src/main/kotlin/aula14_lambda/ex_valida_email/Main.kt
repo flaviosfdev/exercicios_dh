@@ -1,4 +1,4 @@
-package aula14.ex_lambda_valida_email
+package aula14_lambda.ex_valida_email
 
 fun main() {
     val validaEmail = { email: String -> email.contains('@') }

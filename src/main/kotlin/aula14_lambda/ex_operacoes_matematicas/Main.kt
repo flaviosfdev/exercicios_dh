@@ -1,4 +1,4 @@
-package aula14.ex_lambda_operacoes_matematicas
+package aula14_lambda.ex_operacoes_matematicas
 
 /**
  * 1 - Crie 4  funções lambdas para as operações de matemáticabásica:

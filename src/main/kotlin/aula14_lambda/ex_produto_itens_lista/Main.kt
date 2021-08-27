@@ -1,4 +1,4 @@
-package aula14.ex_lambda_produto_itens_lista
+package aula14_lambda.ex_produto_itens_lista
 
 fun main() {
     val lista = { lista: List<Int> ->

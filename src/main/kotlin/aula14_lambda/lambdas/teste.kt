@@ -1,4 +1,4 @@
-package aula14.lambdas
+package aula14_lambda.lambdas
 
 class Filho(var trabalha: Boolean) {
     fun ehDependente() = if (!trabalha) true else false
